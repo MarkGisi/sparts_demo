@@ -1,0 +1,4 @@
+{
+    "http_port":      3075,
+    "demo_reboot_script":    "./start_ledger.sh"
+}
